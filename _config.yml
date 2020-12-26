@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: 💻✒️📄🌟
 description: Nikolaos Margaris' CV
 show_downloads: "true"
-github:
-  pdf_url: pdf
-  docx_url: docx
+docs:
+  pdf_url: "CV - Nikolaos Margaris - 2020.pdf"
+  doc_url: "CV - Nikolaos Margaris - 2020.doc"
