@@ -2,7 +2,7 @@
 
 _FrontEnd Software Engineer based in Athens, Greece_ <br>
 
-[Email](mailto:reverence23@gmail.com) / [Website](https://www.nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
+[Email](mailto:reverence23@gmail.com) / [Website](http://www.nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
 
 ## 👩🏼‍💻 Technical Experience
 
