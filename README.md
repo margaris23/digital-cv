@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
+# Nikolaos Margaris
 
-You can use the [editor on GitHub](https://github.com/margaris23/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_FrontEnd Software Engineer based in Athens, Greece_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:reverence23@gmail.com) / [Website](https://nikolaosmargaris.gr/) / [LinkedIn](https://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Senior Front End Engineer** @ [ANIXE](https://anixe.io/) _(May 2018 - Present)_ <br>
+Project [ZYTHOS](https://zythos.resfinity.com) - Contract Management Project (part of large scale modular solution called ARKADIA).
+Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management) Projects.
 
-```markdown
-Syntax highlighted code block
+- Drove Front End apps (Zythos, Unique++, Yield++)
+- Designed Front End Architectures
+- Implemented new Front End features using agile methodologies
+- Increased product quality, both for Front End and Back End
+- Provided consultation / training to colleagues with regards to Front End
+- Configured and used proper healthy automated CI pipelines
+- Embraced Docker containerization
+- Maintained Front End libraries
+- Contributed to Styleguide and commonly shared libraries
+- Contributed to Back End's functionality
+- **_Technologies used_**: Angular 10, SCSS, Git, Redux, .Net Core, Java 8, PostgreSQL
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Senior FrontEnd Engineer** @ [Ryanair Airlines](https://www.ryanair.com/) _(Nov 2016 - Apr 2018)_ <br>
+[Ryanair Rooms](https://rooms.ryanair.com) Online Hotel Booking Application.
+- Developed a large scale, from ground up, **Angular** Web Application
+- Developed several Angular 5 Micromodules
+- Configured cloud services of deployed projects using AWS
+- Embraced *Functional Programming*
+- **Tech leaded** a small team producing clean and effective code, according to best practices
+- Contributed to company’s technical knowledge increase by conducting internal training sessions, providing proper documentation and presentations
+- Increased product quality by Efficiently solving customer-tickets
+- Developd several proof-of-concepts based on new ideas
+- Contribute to performance enhancements of company’s internal product
+- Worked on both ‘agile-based’ and ‘waterfall’ production processes (Scrum, KanBan e.t.c.)
+- **_Technologies used_**: Typescript, Redux, SCSS, RxJs, Git,Webpack, JEST and several 3rd party Angular / Node.js modules
+<br><br>
 
-- Bulleted
-- List
+**Senior Software Engineer** @ [UNIFY](https://unify.com/en/) _(May 2008 - Oct 2016)_ <br>
+Project [Circuit](https://atos.net/en/lp/atos-workplace-as-a-service/circuit) Unify’s cloud-based, enterprise-grade and secure
+Unified Communication and Collaboration platform.
+Project *Hipath8000* - SEN’s IP softswitch solution (Telecom)
+- Developed automated test-suites using JSHint, Jasmine, JSCover
+- Developed a web portal using J2EE, JSP, JSF, AJAX, on TOMCAT server
+- Developed WebServices (SOAP, Axis, Hibernate, OpenJPA, JAXB, JCraft)  on OSGI  container
+- Developed an SNMP agent using SNM4J
+- **Technologies used**: AngularJS, NodeJs, Git, Clearcase, ExpressJs, MongoDB, J2EE, Spring, OpenJPA, JSF, MySQL, SolidDB
+  <br><br>
 
-1. Numbered
-2. List
+**SAP R/3 Developer** @ [FrameWork - IBM]() _(Nov 2007 - Apr 2008)_ <br>
+Project *Phillipos* - External Associate for IBM supporting SAP installation/configuration at Hellenic Army and (F.A.G.E. – Milk Industry).
+- Developed ABAP reports & dialogs
+- Supported SAP Consultants based on customer requests
+- **Technologies used**: SAP ABAP R/3
+  <br><br>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 📌 On The Side
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**RandeZoo - Pet Friends** @ [RandeZoo](http://www.randezoo.com/) <br>
+Side project for our beloved 🐶 friends ;) - **Pets**
 
-### Jekyll Themes
+> Find a friend for your pet. Connect with vets & animal welfare organizations. Adopt or reunite with your missing pet. Find a pet friendly hotel. And, Protect your pet from hazardous areas.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/margaris23/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Note: Still in progress ..._
+<br><br>
 
-### Support or Contact
+## 💬 Languages
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Greek**: Native <br>
+**English**: Proficient <br>
+<br><br>
+
+## 👩🏼‍🎓 Education
+
+**Bachelor of Computer Engineering and Infomatics** @ University of Patras<br>
+[Patras University](https://www.ceid.upatras.gr/en) - Patras, Greece _(2000 - 2004)_
+
+**MsC of Computer Engineering and Infomatics** @ University of Patras<br>
+[Patras University](https://www.ceid.upatras.gr/en) - Patras, Greece _(2004 - 2005)_
+
+**AWS Training and Certification** - [Architecting on AWS](https://www.linkedin.com/in/nikolaos-margaris-8922713a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAg5uq4BqMuC3K0eHbWgSkboowmPLDrgkgM,1595181819708)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCVnrLUiiQBqZWC6w99sHSA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view) _(Nov 2017)_
+
+**AWS Training and Certification** - [AWS technical Essentails](https://www.linkedin.com/in/nikolaos-margaris-8922713a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAg5uq4BqMuC3K0eHbWgSkboowmPLDrgkgM,1595181782382)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMHRqyXmVR8KhV%2B7dZpN8Gw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view) _(Nov 2017)_
