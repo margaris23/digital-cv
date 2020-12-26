@@ -2,14 +2,13 @@
 
 _FrontEnd Software Engineer based in Athens, Greece_ <br>
 
-[Email](mailto:reverence23@gmail.com) / [Website](https://nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
+[Email](mailto:reverence23@gmail.com) / [Website](https://www.nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
 
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Front End Engineer** @ [ANIXE](https://anixe.io/) _(May 2018 - Present)_ <br>
 Project [ZYTHOS](https://zythos.resfinity.com) - Contract Management Project (part of large scale modular solution called ARKADIA).
 Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management).
-
 - Drove Front End apps (_Zythos, Unique++, Yield++_)
 - Designed Front End Architectures
 - Implemented new Front End features using agile methodologies
@@ -31,9 +30,9 @@ Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management
 - Embraced *Functional Programming*
 - **Tech leaded** a small team producing clean and effective code, according to best practices
 - Contributed to company’s technical knowledge increase by conducting internal training sessions, providing proper documentation and presentations
-- Increased product quality by Efficiently solving customer-tickets
-- Developd several proof-of-concepts based on new ideas
-- Contribute to performance enhancements of company’s internal product
+- Increased product quality by efficiently solving customer-tickets
+- Developed several proof-of-concepts
+- Contributed to performance enhancements of company’s internal product
 - Worked on both ‘agile-based’ and ‘waterfall’ production processes (Scrum, KanBan e.t.c.)
 - **_Technologies used_**: Typescript, Redux, SCSS, RxJs, Git,Webpack, JEST and several 3rd party Angular / Node.js modules
 <br><br>
@@ -70,7 +69,7 @@ _Note: Still in progress ..._
 ## 💬 Languages
 
 **Greek**: Native <br>
-**English**: Proficient <br>
+**English**: Proficient
 <br><br>
 
 ## 👩🏼‍🎓 Education
