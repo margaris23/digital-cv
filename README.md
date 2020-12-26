@@ -2,19 +2,19 @@
 
 _FrontEnd Software Engineer based in Athens, Greece_ <br>
 
-[Email](mailto:reverence23@gmail.com) / [Website](https://nikolaosmargaris.gr/) / [LinkedIn](https://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
+[Email](mailto:reverence23@gmail.com) / [Website](https://nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
 
 ## 👩🏼‍💻 Technical Experience
 
 **Senior Front End Engineer** @ [ANIXE](https://anixe.io/) _(May 2018 - Present)_ <br>
 Project [ZYTHOS](https://zythos.resfinity.com) - Contract Management Project (part of large scale modular solution called ARKADIA).
-Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management) Projects.
+Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management).
 
-- Drove Front End apps (Zythos, Unique++, Yield++)
+- Drove Front End apps (_Zythos, Unique++, Yield++_)
 - Designed Front End Architectures
 - Implemented new Front End features using agile methodologies
 - Increased product quality, both for Front End and Back End
-- Provided consultation / training to colleagues with regards to Front End
+- Provided consultation, trained colleagues with regards to Front End
 - Configured and used proper healthy automated CI pipelines
 - Embraced Docker containerization
 - Maintained Front End libraries
