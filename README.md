@@ -23,12 +23,12 @@ Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management
 <br><br>
 
 **Senior FrontEnd Engineer** @ [Ryanair Airlines](https://www.ryanair.com/) _(Nov 2016 - Apr 2018)_ <br>
-[Ryanair Rooms](https://rooms.ryanair.com) Online Hotel Booking Application.
+Project [Ryanair Rooms](https://rooms.ryanair.com) - Online Hotel Booking Application.
 - Developed a large scale, from ground up, **Angular** Web Application
 - Developed several Angular 5 Micromodules
 - Configured cloud services of deployed projects using AWS
 - Embraced *Functional Programming*
-- **Tech leaded** a small team producing clean and effective code, according to best practices
+- **Leaded** a small team producing clean and effective code, according to best practices
 - Contributed to company’s technical knowledge increase by conducting internal training sessions, providing proper documentation and presentations
 - Increased product quality by efficiently solving customer-tickets
 - Developed several proof-of-concepts
