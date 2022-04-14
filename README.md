@@ -70,6 +70,19 @@ Side project for our beloved 🐶 friends ;) - **Pets**
 
 > Find a friend for your pet. Connect with vets & animal welfare organizations. Adopt or reunite with your missing pet. Find a pet friendly hotel. And, Protect your pet from hazardous areas.
 
+<br><br>
+
+**Code Assistant**<br>
+Side project for people with ♿ disabilities and no-coders
+
+> Create FEs in a fast and effective manner, with minimum effort and/or
+knowledge from people with disabilities, for everyone to use.
+
+An idea that solves the problem of creating FEs by people with disabilities,
+for everyone to use, of any technical knowledge level and/or disability.
+
+An idea that solves the problem of employment for disabled people in IT.
+
 _Note: Still in progress ..._
 <br><br>
 
