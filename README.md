@@ -70,7 +70,7 @@ Side project for our beloved 🐶 friends ;) - **Pets**
 
 > Find a friend for your pet. Connect with vets & animal welfare organizations. Adopt or reunite with your missing pet. Find a pet friendly hotel. And, Protect your pet from hazardous areas.
 
-<br><br>
+<br>
 
 **Code Assistant**<br>
 Side project for people with ♿ disabilities and no-coders
