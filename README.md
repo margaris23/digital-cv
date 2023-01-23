@@ -7,7 +7,8 @@ _FrontEnd Software Engineer based in Athens, Greece_ <br>
 ## 👩🏼‍💻 Technical Experience
 
 **Front End Technical Lead** @ [ANIXE](https://anixe.io/) _(Mar 2021 - Present)_ <br>
-Focusing on everyday improvement of FE Developers/Engineers. Selecting right technologies and defining implementation strategies. Ensuring quality product results, establishing development Best Practices. Performing trainings, enhancing company's knowledge base and documentation
+Focusing on everyday improvement of FE Developers/Engineers. Selecting right technologies and defining implementation strategies. Ensuring quality product results, establishing development Best Practices. Performing trainings, enhancing company's knowledge base and documentation.
+<br>Currently working with NextJS, ReactJS and NX.
 <br><br>
 
 **Senior Front End Engineer** @ [ANIXE](https://anixe.io/) _(May 2018 - Apr 2021)_ <br>
