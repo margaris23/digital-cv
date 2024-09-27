@@ -74,7 +74,7 @@ Side project for our beloved 🐶 friends ;) - **Pets**
 <br>
 
 **Code Assistant**<br>
-Side project for people with ♿ disabilities and no-coders
+Side project for people with ♿ disabilities, no-coders and IT professionals
 
 > Create FEs in a fast and effective manner, with minimum effort and/or
 knowledge from people with disabilities, for everyone to use.
@@ -86,7 +86,7 @@ An idea that solves the problem of employment for disabled people in IT.
 
 [Blog Site](https://nikolaosmargaris.gr/blogs/code-assistant-part1.html)
 
-_Note: Still in progress ..._
+_Note: Project still in progress ..._
 <br><br>
 
 ## 💬 Languages
