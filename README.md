@@ -84,6 +84,8 @@ for everyone to use, of any technical knowledge level and/or disability.
 
 An idea that solves the problem of employment for disabled people in IT.
 
+[Blog Site](https://nikolaosmargaris.gr/blogs/code-assistant-part1.html)
+
 _Note: Still in progress ..._
 <br><br>
 
