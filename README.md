@@ -6,9 +6,13 @@ _FrontEnd Software Engineer based in Athens, Greece_ <br>
 
 ## 👩🏼‍💻 Technical Experience
 
-**Front End Technical Lead** @ [ANIXE](https://anixe.io/) _(Mar 2021 - Present)_ <br>
-Currently building a Design System (UI Component Libraries in React).<br>
-Focusing on everyday improvement of FE Developers/Engineers. Selecting right technologies and defining implementation strategies. Ensuring quality product results, establishing development Best Practices. Performing trainings, enhancing company's knowledge base and documentation.
+**Front End Software Engineer** @ [ADEMU](https://www.linkedin.com/company/ademu-ai) __(Dec 2024 - Mar 2025)__ <br>
+Built Frontend for an exciting new Agentic AI related startup project.
+<br><br>
+
+**Front End Technical Lead** @ [ANIXE](https://anixe.io/) _(Mar 2021 - Nov 2024)_ <br>
+Built a Design System (UI Component Libraries in React).<br>
+Focused on everyday improvement of FE Developers/Engineers. Selected right technologies and defining implementation strategies. Ensured quality product results, established development Best Practices. Performed trainings, enhanced company's knowledge base and documentation.
 <br><br>
 
 **Senior Front End Engineer** @ [ANIXE](https://anixe.io/) _(May 2018 - Apr 2021)_ <br>
