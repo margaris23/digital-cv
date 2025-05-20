@@ -8,7 +8,7 @@ _FrontEnd Software Engineer based in Athens, Greece_ <br>
 
 **Front End Software Engineer** @ [ADEMU](https://www.linkedin.com/company/ademu-ai) __(Dec 2024 - Mar 2025)__ <br>
 Built Frontend for an exciting new Agentic AI related startup project.
-**_Technologies used_**: React, AWS, SuperTokens (Auth), Vite, Playwright, Bun
+- **_Technologies used_**: React, AWS, SuperTokens (Auth), Vite, Playwright, Bun
 <br><br>
 
 **Front End Technical Lead** @ [ANIXE](https://anixe.io/) _(Mar 2021 - Nov 2024)_ <br>
