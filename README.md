@@ -1,9 +1,19 @@
 # Nikolaos Margaris
 
-_FrontEnd Software Engineer based in Athens, Greece_ <br>
+_Experienced Senior Front-End Engineer and Technical Lead with 18+ years in crafting scalable, accessible, and maintainable web applications.<br>
+Expert in React, TypeScript, HTML5 semantics, CSS3 and Design Systems.<br>
+Passionate about developer experience, web performance, and accessibility (a11y).<br>
+Proven leader in mentoring teams, improving FE architectures, and delivering quality software in agile environments._ <br>
 
 [Email](mailto:reverence23@gmail.com) / [Website](https://www.nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
 
+## 👨‍💻👩‍🎓💪 Strengths
+
+- Team mentorship & leadership
+- Code quality & documentation
+- Cross-functional collaboration
+- Performance optimization & accessibility
+    
 ## 👩🏼‍💻 Technical Experience
 
 **Front End Software Engineer** @ [ADEMU](https://www.linkedin.com/company/ademu-ai) __(Dec 2024 - Mar 2025)__ <br>
