@@ -1,7 +1,7 @@
 # Nikolaos Margaris
 
 _Experienced Senior Front-End Engineer and Technical Lead with 18+ years in crafting scalable, accessible, and maintainable web applications.<br>
-Expert in React, TypeScript, HTML5 semantics, CSS3 and Design Systems.<br>
+Expert in Angular, React, TypeScript, HTML5 semantics, CSS3 and Design Systems.<br>
 Passionate about developer experience, web performance, and accessibility (a11y).<br>
 Proven leader in mentoring teams, improving FE architectures, and delivering quality software in agile environments._ <br>
 
@@ -15,6 +15,11 @@ Proven leader in mentoring teams, improving FE architectures, and delivering qua
 - Performance optimization & accessibility
     
 ## 👩🏼‍💻 Technical Experience
+
+**Front End Software Engineer** @ [MORPHOSES](https://morphoses.io) __(Mar 2025)__ <br>
+Improving and Implementing Frontend for morphoses.io, an eLearning platform, offering an innovative soft skill improvement solution for 6 - 18 yrs old young learners.
+- **_Technologies used_**: Angular, Angular Material, AWS, Stomp, DotLottie, Whereby
+<br><br>
 
 **Front End Software Engineer** @ [ADEMU](https://www.linkedin.com/company/ademu-ai) __(Dec 2024 - Mar 2025)__ <br>
 Built Frontend for an exciting new Agentic AI related startup project.
