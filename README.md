@@ -5,7 +5,7 @@ Expert in Angular, React, TypeScript, HTML5 semantics, CSS3 and Design Systems.<
 Passionate about developer experience, web performance, and accessibility (a11y).<br>
 Proven leader in mentoring teams, improving FE architectures, and delivering quality software in agile environments._ <br>
 
-[Email](mailto:reverence23@gmail.com) / [Website](https://www.nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [Twitter](https://twitter.com/NikolaosMargar1/)
+[Email](mailto:reverence23@gmail.com) / [Website](https://www.nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [X](https://x.com/NikolaosMargar1/)
 
 ## 👨‍💻👩‍🎓💪 Strengths
 
