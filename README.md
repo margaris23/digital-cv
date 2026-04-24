@@ -16,7 +16,7 @@ Proven leader in mentoring teams, improving FE architectures, and delivering qua
     
 ## 👩🏼‍💻 Technical Experience
 
-**Front End Software Engineer** @ [MORPHOSES](https://morphoses.io) __(Mar 2025)__ <br>
+**Front End Software Engineer** @ [MORPHOSES](https://morphoses.io) __(Jul 2025)__ <br>
 Improving and Implementing Frontend for morphoses.io, an eLearning platform, offering an innovative soft skill improvement solution for 6 - 18 yrs old young learners.
 - **_Technologies used_**: Angular, Angular Material, AWS, Stomp, DotLottie, Whereby
 <br><br>
