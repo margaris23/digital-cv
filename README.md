@@ -17,14 +17,14 @@ workflows, mentoring teams, and delivering quality software in agile environment
     
 ## 👩🏼‍💻 Technical Experience
 
-**Front End Software Engineer** @ [MORPHOSES](https://morphoses.io) __(Jul 2025)__ <br>
+**Front End Software Engineer** @ [MORPHOSES](https://morphoses.io) *- EduTech* __(Jul 2025)__ <br>
 - Improving and implementing the front-end for morphoses.io, an eLearning platform delivering an innovative soft-skills
 improvement solution for learners aged 6–18.
 
 - **_Technologies using_**: Angular, Angular Material, AWS, Stomp, DotLottie, Whereby`
 <br><br>
 
-**Front End Software Engineer** @ [ADEMU](https://www.linkedin.com/company/ademu-ai) __(Dec 2024 - Mar 2025)__ <br>
+**Front End Software Engineer** @ [ADEMU](https://www.linkedin.com/company/ademu-ai) - Agentic AI Startup __(Dec 2024 - Mar 2025)__ <br>
 - Built the web front-end for an Agentic AI product, developing user-facing interfaces for AI-driven, agent-based
 workflows using React, integrated with AWS infrastructure.
 - Delivered performant, responsive UIs with semantic markup, ARIA support, and WCAG-aligned accessibility best
@@ -33,7 +33,7 @@ practices.
 - **_Technologies used_**: React, AWS, SuperTokens (Auth), ViteJS, Playwright, BunJS
 <br><br>
 
-**Front End Technical Lead** @ [ANIXE](https://anixe.io/) _(Mar 2021 - Nov 2024)_ <br>
+**Front End Technical Lead** @ [ANIXE](https://anixe.io/) *- Tourism & Travel* _(Mar 2021 - Nov 2024)_ <br>
 - Spearheaded the design and implementation of a scalable Design System in React.
 - Mentored a team of front-end engineers; improved code quality through reviews and best practices.
 - Led web accessibility strategy across the Design System, driving WCAG 2.1 AA compliance through ARIA patterns,
@@ -45,7 +45,7 @@ Built a Design System (UI Component Libraries in React).<br>
 Focused on everyday improvement of FE Developers/Engineers. Selected right technologies and defining implementation strategies. Ensured quality product results, established development Best Practices. Performed trainings, enhanced company's knowledge base and documentation.
 <br><br>
 
-**Senior Front End Engineer** @ [ANIXE](https://anixe.io/) _(May 2018 - Apr 2021)_ <br>
+**Senior Front End Engineer** @ [ANIXE](https://anixe.io/) *- Tourism & Travel* _(May 2018 - Apr 2021)_ <br>
 Project [ZYTHOS](https://zythos.resfinity.com) - Contract Management Project (part of large scale modular solution called ARKADIA).
 Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management).
 
@@ -78,7 +78,7 @@ Project [Ryanair Rooms](https://rooms.ryanair.com) - Online Hotel Booking Applic
 - **_Technologies used_**: Typescript, Redux, SCSS, RxJs, Git,Webpack, JEST and several 3rd party Angular / Node.js modules
   <br><br>
 
-**Senior Software Engineer** @ [UNIFY](https://unify.com/en/) _(May 2008 - Oct 2016)_ <br>
+**Senior Software Engineer** @ [UNIFY](https://unify.com/en/) *- Telecom* _(May 2008 - Oct 2016)_ <br>
 Project [Circuit](https://atos.net/en/lp/atos-workplace-as-a-service/circuit) Unify’s cloud-based, enterprise-grade and secure
 Unified Communication and Collaboration platform.
 Project _Hipath8000_ - SEN’s IP softswitch solution (Telecom)
@@ -99,6 +99,11 @@ Project _Phillipos_ - External Associate for IBM supporting SAP installation/con
   <br><br>
 
 ## 📌 On The Side
+
+**Smart Calculator** @ [daily-math.online](https://daily-math.online.com) <br>
+Do your daily calculations fast and efficiently! Smart Calculator is a digital tool to help you save cost while calculating from shopping expenses, fuel consumption up to salary raises e.t.c
+
+<br>
 
 **RandeZoo - Pet Friends** @ [RandeZoo](http://www.randezoo.com/) <br>
 Side project for our beloved 🐶 friends ;) - **Pets**
