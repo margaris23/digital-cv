@@ -1,15 +1,16 @@
 # Nikolaos Margaris
 
-_Experienced Senior Front-End Engineer and Technical Lead with 18+ years in crafting scalable, accessible, and maintainable web applications.<br>
-Expert in Angular, React, TypeScript, HTML5 semantics, CSS3 and Design Systems.<br>
-Passionate about developer experience, web performance, and accessibility (a11y).<br>
-Proven leader in mentoring teams, improving FE architectures, and delivering quality software in agile environments._ <br>
+_Experienced Senior Front-End Engineer and Technical Lead with 18+ years crafting scalable, accessible, and maintainable web
+applications. Expert in React, TypeScript, HTML5 semantics, CSS3, and Design Systems, with a strong focus on WCAG-compliant,
+inclusive web accessibility (a11y). Proven track record embedding accessibility standards into design systems and engineering
+workflows, mentoring teams, and delivering quality software in agile environments._ <br>
 
 [Email](mailto:reverence23@gmail.com) / [Website](https://www.nikolaosmargaris.gr/) / [LinkedIn](http://www.linkedin.com/in/nikolaos-margaris-8922713a/) / [GitHub](https://github.com/margaris23/) / [X](https://x.com/NikolaosMargar1/)
 
 ## 👨‍💻👩‍🎓💪 Strengths
 
 - Team mentorship & leadership
+- Accessibility-first development
 - Code quality & documentation
 - Cross-functional collaboration
 - Performance optimization & accessibility
@@ -17,16 +18,29 @@ Proven leader in mentoring teams, improving FE architectures, and delivering qua
 ## 👩🏼‍💻 Technical Experience
 
 **Front End Software Engineer** @ [MORPHOSES](https://morphoses.io) __(Jul 2025)__ <br>
-Improving and Implementing Frontend for morphoses.io, an eLearning platform, offering an innovative soft skill improvement solution for 6 - 18 yrs old young learners.
-- **_Technologies used_**: Angular, Angular Material, AWS, Stomp, DotLottie, Whereby
+- Improving and implementing the front-end for morphoses.io, an eLearning platform delivering an innovative soft-skills
+improvement solution for learners aged 6–18.
+
+- **_Technologies using_**: Angular, Angular Material, AWS, Stomp, DotLottie, Whereby`
 <br><br>
 
 **Front End Software Engineer** @ [ADEMU](https://www.linkedin.com/company/ademu-ai) __(Dec 2024 - Mar 2025)__ <br>
-Built Frontend for an exciting new Agentic AI related startup project.
+- Built the web front-end for an Agentic AI product, developing user-facing interfaces for AI-driven, agent-based
+workflows using React, integrated with AWS infrastructure.
+- Delivered performant, responsive UIs with semantic markup, ARIA support, and WCAG-aligned accessibility best
+practices.
+
 - **_Technologies used_**: React, AWS, SuperTokens (Auth), ViteJS, Playwright, BunJS
 <br><br>
 
 **Front End Technical Lead** @ [ANIXE](https://anixe.io/) _(Mar 2021 - Nov 2024)_ <br>
+- Spearheaded the design and implementation of a scalable Design System in React.
+- Mentored a team of front-end engineers; improved code quality through reviews and best practices.
+- Led web accessibility strategy across the Design System, driving WCAG 2.1 AA compliance through ARIA patterns,
+semantic HTML, and keyboard-navigable components.
+- Championed accessibility testing (Jest, RTL, axe, screen readers); introduced semantic standards and a11y guidelines
+across codebases.
+- Defined front-end strategy and tooling selection, enhancing developer productivity and performance.
 Built a Design System (UI Component Libraries in React).<br>
 Focused on everyday improvement of FE Developers/Engineers. Selected right technologies and defining implementation strategies. Ensured quality product results, established development Best Practices. Performed trainings, enhanced company's knowledge base and documentation.
 <br><br>
