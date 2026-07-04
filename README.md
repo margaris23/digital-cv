@@ -33,7 +33,7 @@ practices.
 - **_Technologies used_**: React, AWS, SuperTokens (Auth), ViteJS, Playwright, BunJS
 <br><br>
 
-**Front End Technical Lead** @ [ANIXE](https://anixe.io/) *- Tourism & Travel* _(Mar 2021 - Nov 2024)_ <br>
+**Front End Technical Lead** @ [ANIXE](https://anixe.io/) *- Tourism & Travel* __(Mar 2021 - Nov 2024)__ <br>
 - Spearheaded the design and implementation of a scalable Design System in React.
 - Mentored a team of front-end engineers; improved code quality through reviews and best practices.
 - Led web accessibility strategy across the Design System, driving WCAG 2.1 AA compliance through ARIA patterns,
@@ -45,7 +45,7 @@ Built a Design System (UI Component Libraries in React).<br>
 Focused on everyday improvement of FE Developers/Engineers. Selected right technologies and defining implementation strategies. Ensured quality product results, established development Best Practices. Performed trainings, enhanced company's knowledge base and documentation.
 <br><br>
 
-**Senior Front End Engineer** @ [ANIXE](https://anixe.io/) *- Tourism & Travel* _(May 2018 - Apr 2021)_ <br>
+**Senior Front End Engineer** @ [ANIXE](https://anixe.io/) *- Tourism & Travel* __(May 2018 - Apr 2021)__ <br>
 Project [ZYTHOS](https://zythos.resfinity.com) - Contract Management Project (part of large scale modular solution called ARKADIA).
 Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management).
 
@@ -62,7 +62,7 @@ Project [UNPP - Back Office](https://anixe.io/products/ota) (Bed Bank Management
 - **_Technologies used_**: Angular 10, SCSS, Git, Redux, .Net Core, Java 8, PostgreSQL
   <br><br>
 
-**Senior FrontEnd Engineer** @ [Ryanair Airlines](https://www.ryanair.com/) _(Nov 2016 - Apr 2018)_ <br>
+**Senior FrontEnd Engineer** @ [Ryanair Airlines](https://www.ryanair.com/) __(Nov 2016 - Apr 2018)__ <br>
 Project [Ryanair Rooms](https://rooms.ryanair.com) - Online Hotel Booking Application.
 
 - Developed a large scale, from ground up, **Angular** Web Application
@@ -78,7 +78,7 @@ Project [Ryanair Rooms](https://rooms.ryanair.com) - Online Hotel Booking Applic
 - **_Technologies used_**: Typescript, Redux, SCSS, RxJs, Git,Webpack, JEST and several 3rd party Angular / Node.js modules
   <br><br>
 
-**Senior Software Engineer** @ [UNIFY](https://unify.com/en/) *- Telecom* _(May 2008 - Oct 2016)_ <br>
+**Senior Software Engineer** @ [UNIFY](https://unify.com/en/) *- Telecom* __(May 2008 - Oct 2016)__ <br>
 Project [Circuit](https://atos.net/en/lp/atos-workplace-as-a-service/circuit) Unify’s cloud-based, enterprise-grade and secure
 Unified Communication and Collaboration platform.
 Project _Hipath8000_ - SEN’s IP softswitch solution (Telecom)
@@ -90,7 +90,7 @@ Project _Hipath8000_ - SEN’s IP softswitch solution (Telecom)
 - **Technologies used**: AngularJS, NodeJs, Git, Clearcase, ExpressJs, MongoDB, J2EE, Spring, OpenJPA, JSF, MySQL, SolidDB
   <br><br>
 
-**SAP R/3 Developer** @ [FrameWork - IBM]() _(Nov 2007 - Apr 2008)_ <br>
+**SAP R/3 Developer** @ [FrameWork - IBM]() __(Nov 2007 - Apr 2008)__ <br>
 Project _Phillipos_ - External Associate for IBM supporting SAP installation/configuration at Hellenic Army and (F.A.G.E. – Milk Industry).
 
 - Developed ABAP reports & dialogs
