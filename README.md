@@ -100,7 +100,7 @@ Project _Phillipos_ - External Associate for IBM supporting SAP installation/con
 
 ## 📌 On The Side
 
-**Smart Calculator** @ [daily-math.online](https://daily-math.online.com) <br>
+**Smart Calculator** @ [daily-math.online](https://daily-math.online) <br>
 Do your daily calculations fast and efficiently! Smart Calculator is a digital tool to help you save cost while calculating from shopping expenses, fuel consumption up to salary raises e.t.c
 
 <br>
